@@ -1,5 +1,6 @@
 import random
 import math
+#i added something hereeee
 
 #chose 2 prime numbers
 p, q = 0, 0
