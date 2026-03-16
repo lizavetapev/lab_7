@@ -1,7 +1,6 @@
 import random
 import math
-#i added something hereeee
-
+#added sth else here
 #chose 2 prime numbers
 p, q = 0, 0
 while True:
